@@ -1,0 +1,6 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\WorldServer.exe.config
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\WorldServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\WorldServer.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\WorldServer\obj\Release\WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\WorldServer\obj\Release\WorldServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\WorldServer\obj\Release\WorldServer.pdb

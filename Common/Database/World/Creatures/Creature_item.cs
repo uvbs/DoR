@@ -1,0 +1,52 @@
+﻿/*
+ *
+ */
+ 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using FrameWork;
+
+namespace Common
+{
+    // Valeur Fixe d'un character
+    [DataTable(PreCache = false, TableName = "creature_items", DatabaseName = "World")]
+    [Serializable]
+    public class Creature_item : DataObject
+    {
+        private uint _Entry;
+        private ushort _SlotId;
+        private ushort _ModelId;
+        private uint _EffectId;
+
+        [DataElement(AllowDbNull = false)]
+        public uint Entry
+        {
+            get { return _Entry; }
+            set { _Entry = value; Dirty = true; }
+        }
+
+        [DataElement(AllowDbNull = false)]
+        public ushort SlotId
+        {
+            get { return _SlotId; }
+            set { _SlotId = value; Dirty = true; }
+        }
+
+        [DataElement(AllowDbNull = false)]
+        public ushort ModelId
+        {
+            get { return _ModelId; }
+            set { _ModelId = value; Dirty = true; }
+        }
+
+        [DataElement(AllowDbNull = false)]
+        public uint EffectId
+        {
+            get { return _EffectId; }
+            set { _EffectId = value; Dirty = true; }
+        }
+    }
+}

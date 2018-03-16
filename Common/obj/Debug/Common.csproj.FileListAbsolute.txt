@@ -1,0 +1,5 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Debug\Common.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Debug\Common.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\Common\obj\Debug\Common.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\Common\obj\Debug\Common.pdb

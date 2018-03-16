@@ -1,0 +1,6 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\bin\Debug\MySql.Data.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\obj\Debug\FrameWork.pdb

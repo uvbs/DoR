@@ -1,0 +1,5 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LobbyServer.exe.config
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LobbyServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LobbyServer.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\LobbyServer\obj\Release\LobbyServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\LobbyServer\obj\Release\LobbyServer.pdb

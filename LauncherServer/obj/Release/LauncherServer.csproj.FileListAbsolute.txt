@@ -1,0 +1,5 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LauncherServer.exe.config
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LauncherServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Release\LauncherServer.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\LauncherServer\obj\Release\LauncherServer.exe
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\LauncherServer\obj\Release\LauncherServer.pdb

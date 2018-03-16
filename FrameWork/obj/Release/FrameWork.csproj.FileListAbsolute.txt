@@ -1,0 +1,5 @@
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Debug\FrameWork.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\bin\Debug\FrameWork.pdb
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\obj\Release\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\obj\Release\FrameWork.dll
+C:\Users\m17x r3\Desktop\my dor svn\DorServer\FrameWork\obj\Release\FrameWork.pdb

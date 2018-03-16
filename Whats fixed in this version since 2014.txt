@@ -1,0 +1,28 @@
+DoR server is a warhammer online server Dawn of Reckoning project since 2008-2018
+
+added postern door script
+chapters added fixed
+teleport quick gm command
+fixed population box dont show now on login
+random name fixed
+quest maps added
+pairing added
+gm command teleport quick added= .teleport q (name)
+npc,s dont attack gm,s
+doors fixed
+door open and close fixed
+door open and close sound added
+npc waypoints added with speech ect
+vendor text fixed
+missing zone offsets added now npc will show up except in lost vale
+zone onscreen text added
+quest dye vendor box fixed
+public quest fixs added
+influnce bar added
+you are now flagged for rvr added
+fixed error were you carnt teleport to the lost vale
+scenaro que added port to nordenwatch
+PQ HAS GOLD CHEST ON MAP TURNS GOLD WHEN MORE THAN ONE PLAYER IS IN THE ZONE
+AND SHOWS HOW MANY PLAYERS AT THAT ZONE
+PQ HAS 100 INFLUNCE WHEN U IN THE PQ
+SIEGEWEAPON CLICK AND LOADS NEED TO FIX FIREING
